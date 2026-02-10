@@ -6,6 +6,8 @@
 </a>
 
 <h3></h3>
+
+
  
 > ✨ Navigate at [cookbook.openai.com](https://cookbook.openai.com)
 
